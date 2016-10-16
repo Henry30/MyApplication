@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="app_version">Petagram Versión1.0</string>
+    <string name="app_desarrolladoPor">Desarrollado por Henry Meza</string>
+    <string name="app_fechacreacion">07/10/2016</string>
+    <string name="nombre">Lobo</string>
+    <string name="rank">0</string>
+    <string name="OBJETO_MASCOTA">OBJETO_MASCOTA</string>
+    <string name="LONGITUD_LISTA">OBJETO_MASCOTA</string>
+    <string name="mnuContacto">Contacto</string>
+    <string name="mnuAcercade">Acerca de</string>
+    <string name="nombreAContacto">Nombre</string>
+    <string name="emailAContacto">Correo electrónico</string>
+    <string name="comentarioAContacto">Comentario</string>
+    <string name="tituloAContacto">Contactenos</string>
+    <string name="btnEnviarAContacto">Enviar Comentario</string>
+    <string name="mensajeenviado">Mensaje Enviado</string>
+    <string name="texto_Accion">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/mnuRanking"
+        android:title="Ranking"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/starhotel"    />
+    <item
+        android:id="@+id/mnuContacto"
+        android:title="@string/mnuContacto"
+        android:orderInCategory="101"
+        />
+    <item
+        android:id="@+id/mnuAbout"
+        android:title="@string/mnuAcercade"
+        android:orderInCategory="102"
+        />
+
+</menu>
